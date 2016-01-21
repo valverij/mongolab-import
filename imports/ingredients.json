@@ -1,0 +1,245 @@
+[{
+    "name": "Pepper",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Oregano (dried)",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Basil (dried)",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Cumin",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Paprika",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Cayenne Pepper",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+},
+{
+    "name": "Coriander",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+},  
+{
+    "name": "Cinnamon",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Allspice",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Clove",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Nutmeg",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Garlic Powder",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Onion Powder",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Chile Powder",
+    "isPantryItem": true,
+    "category": "Spices & Seasonings"
+}, 
+{
+    "name": "Yeast",
+    "isPantryItem": true,
+    "category": "Baking"
+}, 
+{
+    "name": "Baking Powder",
+    "isPantryItem": true,
+    "category": "Baking"
+}, 
+{
+    "name": "Baking Soda",
+    "isPantryItem": true,
+    "category": "Baking"
+}, 
+{
+    "name": "Flour",
+    "isPantryItem": true,
+    "category": "Baking"
+},
+{
+    "name": "Cornmeal",
+    "isPantryItem": true,
+    "category": "Baking"
+}, 
+{
+    "name": "Corn Starch",
+    "isPantryItem": true,
+    "category": "Baking"
+}, 
+{
+    "name": "Potato Starch",
+    "isPantryItem": false,
+    "category": "Baking"
+}, 
+{
+    "name": "Sugar",
+    "isPantryItem": true,
+    "category": "Baking"
+}, 
+{
+    "name": "Chocolate Chips",
+    "isPantryItem": false,
+    "category": "Baking"
+}, 
+{
+    "name": "Powdered Sugar",
+    "isPantryItem": false,
+    "category": "Baking"
+}, 
+{
+    "name": "Cocoa Powder",
+    "isPantryItem": false,
+    "category": "Baking"
+}, 
+{
+    "name": "Celery",
+    "isPantryItem": false,
+    "category": "Produce"
+}, 
+{
+    "name": "Onion",
+    "isPantryItem": false,
+    "category": "Produce"
+}, 
+{
+    "name": "Tomato",
+    "isPantryItem": false,
+    "category": "Produce"
+}, 
+{
+    "name": "Potato",
+    "isPantryItem": false,
+    "category": "Produce"
+}, 
+{
+    "name": "Sweet Potato",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Ginger",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Bananas",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Apples",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Oranges",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Grapes",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Red Bell Pepper",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Green Bell Pepper",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Jalapeño",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Avocado",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Garlic",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Spinach",
+    "isPantryItem": false,
+    "category": "Produce"
+},
+{
+    "name": "Peanuts",
+    "isPantryItem": false,
+    "category": "Snacks"
+},
+{
+    "name": "Peanut Butter",
+    "isPantryItem": true,
+    "category": "Pantry"
+},
+{
+    "name": "Spaghetti",
+    "isPantryItem": true,
+    "category": "Pantry"
+},
+{
+    "name": "Tortellini (frozen)",
+    "isPantryItem": false,
+    "category": "Frozen Foods"
+},
+{
+    "name": "Pasta Sauce",
+    "isPantryItem": false,
+    "category": "Pantry"
+},
+{
+    "name": "Salsa",
+    "isPantryItem": false,
+    "category": "Pantry"
+},
+{
+    "name": "Enchilada Sauce",
+    "isPantryItem": false,
+    "category": "Pantry"
+},
+{
+    "name": "Pasta Sauce",
+    "isPantryItem": false,
+    "category": "Pantry"
+}]
