@@ -1,0 +1,24 @@
+{
+  "name": "mongolab-import",
+  "version": "0.0.0",
+  "description": "For importing into mongolab",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valverij/mongolab-import.git"
+  },
+  "author": "Ian Valverde",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valverij/mongolab-import/issues"
+  },
+  "homepage": "https://github.com/valverij/mongolab-import#readme",
+  "dependencies": {
+    "kerberos": "~0.0.18",
+    "lodash": "^4.0.0",
+    "mongodb": "^2.1.4"
+  }
+}
