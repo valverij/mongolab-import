@@ -1,0 +1,164 @@
+[{
+    "name": "Pizza",
+    "ingredients": [
+        "Yeast",
+        "Flour",
+        "Salt",
+        "Olive Oil",
+        "Oregano (dried)",
+        "Basil (dried)",
+        "Garlic Powder",
+        "Pizza Sauce",
+        "Mozzarella Cheese"
+    ]
+}, {
+    "name": "Pad Ka Prow",
+    "ingredients": [
+        "Black Soy Sauce",
+        "Red Bell Pepper",
+        "Green Bell Pepper",
+        "Green Beans",
+        "Fish Sauce",
+        "Sambal",
+        "Sriracha",
+        "Garlic",
+        "Carrots",
+        "Lime",
+        "Rice", 
+        "Ground Turkey"
+    ]
+}, {
+    "name": "Vegetarian Tacos",
+    "ingredients": [
+        "Grillers Crumbles",
+        "Red Bell Pepper",
+        "Green Bell Pepper",
+        "Onion",
+        "Cheddar Cheese",
+        "Taco Shells",
+        "Taco Seasoning"
+    ]
+}, {
+    "name": "Lentil Soup",
+    "ingredients": [
+        "Onion",
+        "Celery",
+        "Carrots",
+        "Cumin",
+        "Coriander",
+        "Pepper",
+        "Lentils",
+        "Vegetable Stock"
+    ]
+}, {
+    "name": "Turkey Meatloaf",
+    "ingredients": [
+        "Ground Turkey",
+        "Onion",
+        "Hot Sauce",
+        "Worcestershire Sauce",
+        "Quinoa",
+        "Pepper",
+        "Salt",
+        "Brown Sugar",
+        "Garlic",
+        "Eggs"
+    ]
+}, {
+    "name": "Spaghetti",
+    "ingredients": [
+        "Spaghetti",
+        "Pasta Sauce"
+    ]
+}, {
+    "name": "Tortellini",
+    "ingredients": [
+        "Tortellini (frozen)",
+        "Pasta Sauce"
+    ]
+}, {
+    "name": "Tomato Soup & Grilled Cheese",
+    "ingredients": [
+        "Tomato Soup",
+        "Cheese",
+        "Bread", 
+        "Butter"
+    ]
+}, {
+    "name": "Black Bean Burgers",
+    "ingredients": [
+        "Black Beans",
+        "Onion",
+        "Green Bell Pepper",
+        "Pepper",
+        "Salt",
+        "Cumin",
+        "Sriracha",
+        "Bread Crumbs",
+        "Eggs"
+    ]
+}, {
+    "name": "Turkey Burgers",
+    "ingredients": [
+        "Ground Turkey",
+        "Red Bell Pepper",
+        "Green Bell Pepper",
+        "Pepper",
+        "Salt",
+        "Eggs",
+        "Buns",
+        "Cheese"
+    ]
+}, {
+    "name": "Stuffed Portobellos",
+    "ingredients": [
+        "Portobello Mushrooms",
+        "Quinoa",
+        "Vegetable Stock",
+        "Pepper",
+        "Garlic Powder",
+        "Onion Powder",
+        "Provolone Cheese",
+        "Corn (frozen)"
+    ]
+}, {
+    "name": "Peanut Tofu",
+    "ingredients": [
+        "Peanuts",
+        "Peanut Butter",
+        "Tofu",
+        "Vegetable Stock",
+        "Red Bell Pepper",
+        "Cayenne Pepper",
+        "Ginger",
+        "Garlic",
+        "Soy Sauce",
+        "Sugar", 
+        "Cilantro",
+        "Green Onions"
+    ]
+}, {
+    "name": "Vegetarian Chili",
+    "ingredients": [
+        "Red Bell Pepper",
+        "Green Bell Pepper",
+        "Onion",
+        "Tomato Sauce",
+        "Kidney Beans",
+        "Black Beans",
+        "Chili Mix",
+        "Grillers Crumbles"
+    ]
+}, {
+    "name": "Turkey Chili",
+    "ingredients": [
+        "Red Bell Pepper",
+        "Green Bell Pepper",
+        "Onion",
+        "Tomato Sauce",
+        "Kidney Beans",
+        "Black Beans",
+        "Chili Mix",
+        "Ground Turkey"
+    ]
+}]
