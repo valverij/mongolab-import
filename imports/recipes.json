@@ -161,4 +161,15 @@
         "Chili Mix",
         "Ground Turkey"
     ]
+}, {
+    "name": "Fish Tacos",
+    "ingredients": [
+        "Tilapia",
+        "Tomato",
+        "Onion",
+        "Jalapeño",
+        "Cilantro",
+        "Tortillas or Taco Shells",
+        "Taco Seasoning"
+    ]
 }]
